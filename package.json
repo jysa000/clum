@@ -1,0 +1,22 @@
+{
+  "name": "clum",
+  "version": "1.0.0",
+  "description": "Shared in-memory cache for Node.js clusters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jysa000/clum.git"
+  },
+  "author": "jysa000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jysa000/clum/issues"
+  },
+  "homepage": "https://github.com/jysa000/clum#readme",
+  "dependencies": {
+    "pm2": "^6.0.13"
+  }
+}
